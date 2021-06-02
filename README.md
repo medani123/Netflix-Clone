@@ -1,3 +1,18 @@
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="55" alt="React" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="55" alt="Redux" />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png"
+    width="55"
+    alt="JavaScript"
+  />
+  <img src="https://miro.medium.com/max/1838/1*3AdbbRN3GoTbz72XqfO96g.png" width="75" alt="Eslint" />
+  <img
+    src="https://www.logolynx.com/images/logolynx/78/78d78e9dfeb3d38bf5c26419fb3c6b0f.png"
+    width="75"
+    alt="Prettier"
+  />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
